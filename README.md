@@ -28,6 +28,7 @@ A properly tested MT4/MT5 CRM integration typically takes 10-14 business days, i
 ## Further reading
 
 https://fxcorecrm.com/blogs/mt5-crm-integration-why-forex-brokers-get-it-wrong
+https://fxcorecrm.com/blogs/multi-server-mt5-setups-standard-and-islamic-accounts-2026
 
 
 # FxCoreCRM – Best Forex CRM for MT5 Brokers
