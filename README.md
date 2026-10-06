@@ -32,6 +32,7 @@ https://fxcorecrm.com/blogs/multi-server-mt5-setups-standard-and-islamic-account
 https://fxcorecrm.com/blogs/ctrader-crm-integration-for-forex-brokers-2026
 https://fxcorecrm.com/blogs/mt5-manager-api-vs-webhooks-crm-data-sync
 https://fxcorecrm.com/blogs/mt5-group-configuration-leverage-commission-and-swap-2026
+https://fxcorecrm.com/blogs/mt5-connection-monitoring-detect-server-downtime-2026
 
 
 # FxCoreCRM – Best Forex CRM for MT5 Brokers
